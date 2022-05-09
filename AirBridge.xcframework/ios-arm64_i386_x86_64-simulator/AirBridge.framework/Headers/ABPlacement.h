@@ -12,8 +12,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface ABPlacement : NSObject
 
-- (void) click:(NSURL*)trackingLink completion:(nullable void (^)(ABError* error))completion;
-- (void) impression:(NSURL*)trackingLink completion:(nullable void (^)(ABError* error))completion;
+- (void) click:(NSURL*)trackingLink completion:(nullable void (^)(NSError* __nullable error))completion;
+- (void) impression:(NSURL*)trackingLink completion:(nullable void (^)(NSError* __nullable error))completion;
 
 @end
 

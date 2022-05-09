@@ -6,7 +6,7 @@
 	<dict>
 		<key>AirBridge.podspec</key>
 		<data>
-		7S7wQgvJOU7KNbzFma7B4nRAV6k=
+		TimGhei+1s5kZSGPRGjupNOY4ak=
 		</data>
 		<key>Headers/ABBackgroundEvent.h</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Headers/ABDeeplink.h</key>
 		<data>
-		EGoW4TzOPFVLNNX09d5WyH9q8Og=
+		1qLNtu5+RHNetlzsGYOduzmEfpc=
 		</data>
 		<key>Headers/ABDeeplinkEvent.h</key>
 		<data>
@@ -38,15 +38,19 @@
 		</data>
 		<key>Headers/ABError.h</key>
 		<data>
-		RvyWXkvjZPEv1Zx+2k8YpcIVBr8=
+		MiXuKr6betC6Q5tWT030NfV5XnY=
 		</data>
 		<key>Headers/ABEvent.h</key>
 		<data>
-		AeveyMG6QDyTWMkode2hppcJI8I=
+		lMy2QxubOHX6b5uTvm9LEpcVmIU=
 		</data>
 		<key>Headers/ABForegroundEvent.h</key>
 		<data>
 		iV2q6niBmuwcFTlZLhKXLlr+nII=
+		</data>
+		<key>Headers/ABHTTPError.h</key>
+		<data>
+		JfRnoB1E1sHUQUyUMAB6tQ5YfwA=
 		</data>
 		<key>Headers/ABInAppEvent.h</key>
 		<data>
@@ -66,7 +70,7 @@
 		</data>
 		<key>Headers/ABPlacement.h</key>
 		<data>
-		PfrGSvKhoViJfEtYUltUx1IupXc=
+		e25ZLU8nZNXhsX1s0Y6PRbmM7Bk=
 		</data>
 		<key>Headers/ABProduct.h</key>
 		<data>
@@ -94,7 +98,7 @@
 		</data>
 		<key>Headers/ABUmbrella.h</key>
 		<data>
-		o6l4KrFMVNkJaQ2duwKr9//aJzQ=
+		MgGCqe3voNW+SVfYx4WJqpyG1iA=
 		</data>
 		<key>Headers/ABUser.h</key>
 		<data>
@@ -114,7 +118,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Ma312236tZZsDleO1yO6mfKw99I=
+		5iZAHG4I8nKdl/RjiudaEtn87S4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -127,11 +131,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7S7wQgvJOU7KNbzFma7B4nRAV6k=
+			TimGhei+1s5kZSGPRGjupNOY4ak=
 			</data>
 			<key>hash2</key>
 			<data>
-			dRcVxQHhIPMXvrg8ESLIisrVSjs7CbM4dTo439LyaKM=
+			2skkK3D0gIsZPTiBCvzy5WsA9ePqN9B/68oNK4F3gFg=
 			</data>
 		</dict>
 		<key>Headers/ABBackgroundEvent.h</key>
@@ -171,11 +175,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EGoW4TzOPFVLNNX09d5WyH9q8Og=
+			1qLNtu5+RHNetlzsGYOduzmEfpc=
 			</data>
 			<key>hash2</key>
 			<data>
-			H68vgWOHaFS3vfnkNifBz1okJox4zibI1Y1BrBPooI4=
+			m5UkNyc5BgvDwcn8hbacyWPibN6VsRDr8T7Xjm7vy8s=
 			</data>
 		</dict>
 		<key>Headers/ABDeeplinkEvent.h</key>
@@ -215,22 +219,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RvyWXkvjZPEv1Zx+2k8YpcIVBr8=
+			MiXuKr6betC6Q5tWT030NfV5XnY=
 			</data>
 			<key>hash2</key>
 			<data>
-			ezAVDbDM7nNK6mhUh9IESaPR/upETKyfLuLE2r6p2Zc=
+			ZLBpfqNkdPatQdIJvO6uymypZ07X4l0PMyKUpUenIl4=
 			</data>
 		</dict>
 		<key>Headers/ABEvent.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			AeveyMG6QDyTWMkode2hppcJI8I=
+			lMy2QxubOHX6b5uTvm9LEpcVmIU=
 			</data>
 			<key>hash2</key>
 			<data>
-			SLQ18jmoIkjrqmj+rpk5yshfGOUJVNcPW0sLV/trLwU=
+			INChWPodP6nph2oh7PPHIhwPU3fPxO779ayQkKz2rhY=
 			</data>
 		</dict>
 		<key>Headers/ABForegroundEvent.h</key>
@@ -242,6 +246,17 @@
 			<key>hash2</key>
 			<data>
 			nwQYG+3rBbPix4KjlyX0VKptKDPnix4gVEjQKAs2jCw=
+			</data>
+		</dict>
+		<key>Headers/ABHTTPError.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JfRnoB1E1sHUQUyUMAB6tQ5YfwA=
+			</data>
+			<key>hash2</key>
+			<data>
+			NZNWuO8YTcm7d1K4QTlaggj2dVAIXayozHGjyyYx73A=
 			</data>
 		</dict>
 		<key>Headers/ABInAppEvent.h</key>
@@ -292,11 +307,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PfrGSvKhoViJfEtYUltUx1IupXc=
+			e25ZLU8nZNXhsX1s0Y6PRbmM7Bk=
 			</data>
 			<key>hash2</key>
 			<data>
-			aa1Cj5Opo0MjGzXRHN7RMO1uftQSMpnvaZslFdCH4n8=
+			PqrlhN+35C+OZNEz7MYW5UMle+dNf4fV0tPwFxI4WpQ=
 			</data>
 		</dict>
 		<key>Headers/ABProduct.h</key>
@@ -369,11 +384,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			o6l4KrFMVNkJaQ2duwKr9//aJzQ=
+			MgGCqe3voNW+SVfYx4WJqpyG1iA=
 			</data>
 			<key>hash2</key>
 			<data>
-			jZ6SWndDZ83nWVNRcPhkb3+DkvDOznnjMf7QrWwruYw=
+			byySkPRSVCryO9ZkxaPgqd76wVvewllm51fAaf01piQ=
 			</data>
 		</dict>
 		<key>Headers/ABUser.h</key>

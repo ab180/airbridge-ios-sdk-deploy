@@ -29,6 +29,7 @@
 #import <AirBridge/ABWebInterface.h>
 #import <AirBridge/ABSetting.h>
 #import <AirBridge/ABError.h>
+#import <AirBridge/ABHTTPError.h>
 #import <AirBridge/ABLogLevel.h>
 #import <AirBridge/ABSemanticAttributes.h>
 #import <AirBridge/ABSemanticsKey.h>

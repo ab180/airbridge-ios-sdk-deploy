@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name                      = "AirBridge"
-    s.version                   = "1.23.0" 
+    s.version                   = "1.24.0" 
     s.homepage                  = "https://airbridge.io"
     s.license                   = "Commercial"
     s.author                    = { "ab180" => "subeom@ab180.co" }

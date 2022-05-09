@@ -20,7 +20,7 @@ NS_ASSUME_NONNULL_BEGIN
                       onDone:(nullable void (^)(NSString* deeplink))onDone;
 - (void) handleUniversalLink:(NSURL*)link
                       onDone:(nullable void (^)(NSString* deeplink))onDone
-                     onError:(nullable void (^)(ABError* error))onError;
+                     onError:(nullable void (^)(NSError* error))onError;
 
 - (void) handleURLSchemeDeeplink:(NSURL*)url;
 - (void) handleURLSchemeDeeplink:(NSURL*)url
