@@ -26,6 +26,8 @@ NS_ASSUME_NONNULL_BEGIN
 - (void) handleURLSchemeDeeplink:(NSURL*)url
                           onDone:(nullable void (^)(NSString* deeplink))onDone;
 
+- (void) handleNotificationDeeplink:(NSURL*)url;
+
 /* set callback */
 - (void) setDeeplinkCallback:(void (^)(NSString* deeplink))callback;
 - (void) setDeferredDeeplinkCallback:(void (^)(NSString* deeplink))callback;
