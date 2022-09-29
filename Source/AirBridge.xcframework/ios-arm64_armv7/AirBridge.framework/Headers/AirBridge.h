@@ -65,7 +65,6 @@
 /* airbridge options */
 + (void)setLogLevel:(ABLogLevel) level;
 
-
 /* option */
 /**
  *  isUserInfoHashed is state whether SDK hash user-information before send it to server.
@@ -82,6 +81,11 @@
  */
 + (BOOL) autoStartTrackingEnabled;
 + (void) setAutoStartTrackingEnabled:(BOOL)enable;
+
++ (BOOL) resetEventBufferEnabled;
++ (void) setResetEventBufferEnabled:(BOOL)enable;
+
++ (void) setSDKEnabled:(BOOL) enable;
 
 + (void) startTracking;
 

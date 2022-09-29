@@ -18,9 +18,11 @@ typedef void (^ABAttributionCallback)(NSDictionary<NSString*, NSString*>* __nonn
 @property ABMillisecond trackingAuthorizeTimeout;
 @property BOOL isRestartTrackingAuthorizeTimeout;
 @property ABAttributionCallback attributionCallback;
+@property BOOL isResetEventBufferEnabled;
 
 - (void) setEventMaximumBufferCount:(uint64_t)eventMaximumBufferCount;
 - (void) setEventMaximumBufferSize:(uint64_t)eventMaximumBufferSize;
+- (void) setEventTransmitInterval:(uint64_t)milliseconds;
 
 @end
 
