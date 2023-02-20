@@ -37,7 +37,6 @@ NS_SWIFT_NAME(setDeviceAlias(key:value:));
 NS_SWIFT_NAME(removeDeviceAlias(key:));
 - (void)clearDeviceAlias;
 
-/* SDK Development Platform */
 - (void) setSDKDevelopmentPlatform:(NSString*)platform;
 
 @end

@@ -21,23 +21,23 @@
 /**
  *  state return instance of ABState which can modify user-information.
  */
-+ (ABState*) state;
++ (ABState*)state;
 
 /* placement */
 /**
  *  placement return instance of ABPlacement which can open trackingLink.
  */
-+ (ABPlacement*) placement;
++ (ABPlacement*)placement;
 
 /* deeplink */
 /**
  *  deeplink return instance of ABDeeplink which can get deeplink from trackingLink.
  */
-+ (ABDeeplink*) deeplink;
++ (ABDeeplink*)deeplink;
 
-+ (ABSetting*) setting;
++ (ABSetting*)setting;
 
-+ (ABWebInterface*) webInterface;
++ (ABWebInterface*)webInterface;
 
 
 /* instance */
@@ -85,9 +85,14 @@
 + (BOOL) resetEventBufferEnabled;
 + (void) setResetEventBufferEnabled:(BOOL)enable;
 
-+ (void) setSDKEnabled:(BOOL) enable;
-
 + (void) startTracking;
+
+/// The methods of 'enableSDK' and 'disableSDK' serve to bring to a halt and resume all functionalities, respectively. It is advised to make use of the
+/// 'autoStartTrackingEnabled' option before creating the instance of Airbridge for a more refined experience.
++ (BOOL)isSDKEnabled;
++ (void)enableSDK;
++ (void)disableSDK;
++ (void)setSDKEnabled:(BOOL)enable;
 
 /**
  *  isTrackAirbridgeDeeplinkOnly whether SDK track airbridge-deeplink only
