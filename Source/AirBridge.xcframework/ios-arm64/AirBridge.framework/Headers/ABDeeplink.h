@@ -14,6 +14,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface ABDeeplink : NSObject
 
+- (BOOL)isAirbridgeDeeplink:(nullable NSURL*)url;
+
 - (void)handleUserActivity:(NSUserActivity *)userActivity;
 
 - (void)handleUserActivity:(NSUserActivity *)userActivity

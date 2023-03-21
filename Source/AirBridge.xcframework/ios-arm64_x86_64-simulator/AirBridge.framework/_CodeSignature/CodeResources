@@ -6,7 +6,7 @@
 	<dict>
 		<key>AirBridge.podspec</key>
 		<data>
-		vqzaZgcyFrUT+POXwWnlRjRKFIY=
+		RrGK17fVA7IjWweFfGO83SgL97I=
 		</data>
 		<key>Headers/ABBackgroundEvent.h</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Headers/ABDeeplink.h</key>
 		<data>
-		jWPsfLn5JQgMXO3u3CfA5dmL6LE=
+		dCtM9xZNUhBGAKW6HRKnC/oq2M0=
 		</data>
 		<key>Headers/ABDeeplinkEvent.h</key>
 		<data>
@@ -118,7 +118,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ONKa813S5SEtbiCRsj5qqpMgbxQ=
+		dE3iez+GF4tPlsycl4D5nZKkSXo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -131,11 +131,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vqzaZgcyFrUT+POXwWnlRjRKFIY=
+			RrGK17fVA7IjWweFfGO83SgL97I=
 			</data>
 			<key>hash2</key>
 			<data>
-			er8AgoS6zpLQTA1GBOPsoTE05JIjVIp+C7eoAgpulCA=
+			rUX5fvRRJI4U4NMdyLIORdiYQhPtn+wSFjyqmG1wqdI=
 			</data>
 		</dict>
 		<key>Headers/ABBackgroundEvent.h</key>
@@ -175,11 +175,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jWPsfLn5JQgMXO3u3CfA5dmL6LE=
+			dCtM9xZNUhBGAKW6HRKnC/oq2M0=
 			</data>
 			<key>hash2</key>
 			<data>
-			5kALBCHj9t7E6x8riVU1xy2l0g/CmJcXnBCBkaqciKc=
+			h9JWZ1tBVkZw2tSmv5MBB5z1r5hihf/Zqi+qBaw7g54=
 			</data>
 		</dict>
 		<key>Headers/ABDeeplinkEvent.h</key>
