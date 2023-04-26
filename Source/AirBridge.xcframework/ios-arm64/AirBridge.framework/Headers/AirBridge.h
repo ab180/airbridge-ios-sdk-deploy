@@ -95,6 +95,13 @@
 + (void)setSDKEnabled:(BOOL)enable;
 
 /**
+ * sdkSignatureSecret enable sdk signature feature that protect airbridge sdk from sdk spoofing
+ */
+
++ (void)setSDKSignatureSecretWithID:(NSString*)identifier
+                             secret:(NSString*)string NS_SWIFT_NAME(setSDKSignatureSecret(id:secret:));
+
+/**
  *  isTrackAirbridgeDeeplinkOnly whether SDK track airbridge-deeplink only
  *
  *  @discussion default value is NO
