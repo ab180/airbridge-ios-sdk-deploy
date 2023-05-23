@@ -11,8 +11,6 @@
 #import <AirBridge/ABData.h>
 #import <AirBridge/ABProduct.h>
 
-NS_ASSUME_NONNULL_BEGIN
-
 @interface ABSemanticAttributes : NSObject <ABData>
 
 @property (nonatomic, strong) NSArray<ABProduct*>* products;
@@ -24,8 +22,6 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, strong) NSString* currency;
 @property (nonatomic, strong) NSNumber* totalValue;
 
-- (NSDictionary*) toDictionary;
+- (NSDictionary<NSString*, NSObject*>*) toDictionary;
 
 @end
-
-NS_ASSUME_NONNULL_END

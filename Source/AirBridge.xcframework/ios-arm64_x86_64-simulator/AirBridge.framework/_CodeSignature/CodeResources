@@ -6,7 +6,7 @@
 	<dict>
 		<key>AirBridge.podspec</key>
 		<data>
-		ruUHp9fZaKkCCffjbQZIQP14Uxw=
+		Lv/XSBpDNsOTvjYk8gnDas6VH7Y=
 		</data>
 		<key>Headers/ABBackgroundEvent.h</key>
 		<data>
@@ -78,15 +78,15 @@
 		</data>
 		<key>Headers/ABProductKey.h</key>
 		<data>
-		VHCSrO9pp8VZ60opQPOqW05hwJM=
+		QKq5KrNCk1DyQm7sMUUndqF6Xlk=
 		</data>
 		<key>Headers/ABSemanticAttributes.h</key>
 		<data>
-		6RgvLptT3HzpK/VIV04pJOGt8wI=
+		l2SVs4gHm3l3/1TKStZQr3CE9dA=
 		</data>
 		<key>Headers/ABSemanticsKey.h</key>
 		<data>
-		WtEwaU5JX9rCqcDAbnisH3O2CFA=
+		wEZFjse9txiW7JfKvL6hwyr7xxM=
 		</data>
 		<key>Headers/ABSetting.h</key>
 		<data>
@@ -118,7 +118,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		1+cUMzwKWs/mnG4i2e6vmFDXqPQ=
+		JEKil+NJ5dDAwQ0eSbR6dO5hf8k=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -131,11 +131,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ruUHp9fZaKkCCffjbQZIQP14Uxw=
+			Lv/XSBpDNsOTvjYk8gnDas6VH7Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			ALuusxLpoamInIT0FeeuedwHVt/JLqjcegyoCfAFh/Y=
+			JBXt4/J2PXvWzCy6KhHZXUjppzXPMUberLGde7jz3J8=
 			</data>
 		</dict>
 		<key>Headers/ABBackgroundEvent.h</key>
@@ -329,33 +329,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VHCSrO9pp8VZ60opQPOqW05hwJM=
+			QKq5KrNCk1DyQm7sMUUndqF6Xlk=
 			</data>
 			<key>hash2</key>
 			<data>
-			eoEk4F02jVGQ/6w6vfgtCQAQMuHSjVB4h5aKyBUIwec=
+			mHBdiqFA2A7SurUehatxx6fCYiXrYPIgIBywYBSTFOc=
 			</data>
 		</dict>
 		<key>Headers/ABSemanticAttributes.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6RgvLptT3HzpK/VIV04pJOGt8wI=
+			l2SVs4gHm3l3/1TKStZQr3CE9dA=
 			</data>
 			<key>hash2</key>
 			<data>
-			TTrkO4RJ7WFHyHEntVbJXegK5Zq+apP20r8dm5ARblY=
+			8HwVHSpwspUivOzSq2XmVQ5e2LF1Jl1y1IQFO9RiO/o=
 			</data>
 		</dict>
 		<key>Headers/ABSemanticsKey.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WtEwaU5JX9rCqcDAbnisH3O2CFA=
+			wEZFjse9txiW7JfKvL6hwyr7xxM=
 			</data>
 			<key>hash2</key>
 			<data>
-			Jp8xQpqKyRnPm1QKio7zhkIb5eDlQErlbWtq4L3YdDs=
+			8H+1C5MeOlMubGJ2KLM0XIrGeao5k2gkVQc2YI0lyDE=
 			</data>
 		</dict>
 		<key>Headers/ABSetting.h</key>

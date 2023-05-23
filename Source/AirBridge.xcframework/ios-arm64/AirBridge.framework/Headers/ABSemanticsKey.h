@@ -8,6 +8,8 @@
 
 #import <Foundation/Foundation.h>
 
+NS_ASSUME_NONNULL_BEGIN
+
 @interface ABSemanticsKey : NSObject
 
 @property (class, nonatomic, readonly) NSString* products;
@@ -21,3 +23,5 @@
 @property (class, nonatomic, readonly) NSString* totalQuantity;
 
 @end
+
+NS_ASSUME_NONNULL_END

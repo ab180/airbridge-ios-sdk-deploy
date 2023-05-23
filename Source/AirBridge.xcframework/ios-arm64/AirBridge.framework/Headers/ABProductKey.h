@@ -8,6 +8,8 @@
 
 #import <Foundation/Foundation.h>
 
+NS_ASSUME_NONNULL_BEGIN
+
 @interface ABProductKey : NSObject
 
 @property (class, nonatomic, readonly) NSString* productID;
@@ -18,3 +20,5 @@
 @property (class, nonatomic, readonly) NSString* quantity;
 
 @end
+
+NS_ASSUME_NONNULL_END
