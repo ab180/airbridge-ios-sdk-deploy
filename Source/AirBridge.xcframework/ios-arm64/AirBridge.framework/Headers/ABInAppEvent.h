@@ -10,7 +10,7 @@
 #import <AirBridge/ABEvent.h>
 #import <AirBridge/ABSemanticAttributes.h>
 
-@interface ABInAppEvent : ABEvent
+@interface ABInAppEvent : ABEvent 
 
 - (instancetype)init;
 

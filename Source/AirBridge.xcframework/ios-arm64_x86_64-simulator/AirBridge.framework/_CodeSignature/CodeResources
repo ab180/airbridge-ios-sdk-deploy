@@ -6,7 +6,7 @@
 	<dict>
 		<key>AirBridge.podspec</key>
 		<data>
-		1jsYhEtf/Qbmz2UUEOFegcYve64=
+		RJUHAFXs1ClPLreziXzcEIMvZy4=
 		</data>
 		<key>Headers/ABBackgroundEvent.h</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Headers/ABInAppEvent.h</key>
 		<data>
-		gzJNnnxwUAUc4WGp7/gA3oEyN4o=
+		C/t+hBd/Qif0/G4jXyVcf86dQMg=
 		</data>
 		<key>Headers/ABInstallEvent.h</key>
 		<data>
@@ -118,7 +118,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		OV6WMucm4zIqulmJerOiZB6J/gM=
+		poyXaohxnPFp/eeZy4glqESdkqs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -131,11 +131,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1jsYhEtf/Qbmz2UUEOFegcYve64=
+			RJUHAFXs1ClPLreziXzcEIMvZy4=
 			</data>
 			<key>hash2</key>
 			<data>
-			76toyPy61sYq+LB+et1H3dccjSKQColIAqNHA6uMUVI=
+			6xAPLBt8etXE21DQRLHRaHFunUGPQPm7eDJgB8FNu5M=
 			</data>
 		</dict>
 		<key>Headers/ABBackgroundEvent.h</key>
@@ -263,11 +263,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gzJNnnxwUAUc4WGp7/gA3oEyN4o=
+			C/t+hBd/Qif0/G4jXyVcf86dQMg=
 			</data>
 			<key>hash2</key>
 			<data>
-			Hz84d9MBgF8TbO0USTrvfX/jlPXeFUiqQvUdl7bx58k=
+			Jecu9tl5yZr32tQoPK1xKWsc2dYrB+ILLKKkB9tCE3M=
 			</data>
 		</dict>
 		<key>Headers/ABInstallEvent.h</key>
