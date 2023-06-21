@@ -11,11 +11,11 @@
 
 @interface ABUser : NSObject <ABData, NSSecureCoding, NSCopying>
 
-@property (nonatomic, copy) NSString* ID;
-@property (nonatomic, copy) NSString* email;
-@property (nonatomic, copy) NSString* phone;
-@property (nonatomic, copy) NSDictionary<NSString*, NSString*>* alias;
-@property (nonatomic, copy) NSDictionary<NSString*, NSObject*>* attributes;
+@property (atomic, copy) NSString* ID;
+@property (atomic, copy) NSString* email;
+@property (atomic, copy) NSString* phone;
+@property (atomic, copy) NSDictionary<NSString*, NSString*>* alias;
+@property (atomic, copy) NSDictionary<NSString*, NSObject*>* attributes;
 
 - (void) hashDatas;
 
