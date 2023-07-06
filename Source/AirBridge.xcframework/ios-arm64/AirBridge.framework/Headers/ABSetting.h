@@ -19,7 +19,6 @@ typedef void (^ABAttributionCallback)(NSDictionary<NSString*, NSString*>* __nonn
 @property BOOL isRestartTrackingAuthorizeTimeout;
 @property ABAttributionCallback attributionCallback;
 @property BOOL isResetEventBufferEnabled;
-@property (nonatomic, readonly) BOOL isFacebookAEMEnabled;
 
 - (void) setTrackInSessionLifeCycleEventEnabled:(BOOL)enabled;
 - (void) setEventMaximumBufferCount:(uint64_t)eventMaximumBufferCount;
