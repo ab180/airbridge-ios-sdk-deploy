@@ -6,7 +6,7 @@
 	<dict>
 		<key>AirBridge.podspec</key>
 		<data>
-		40i5xKbKIR7sEsMU//TzIHmBPNo=
+		ATYbZwY+LeeuZSGukOCbnHh5Wl8=
 		</data>
 		<key>Headers/ABBackgroundEvent.h</key>
 		<data>
@@ -118,7 +118,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		SLdF2n9Z9CNkgVepUCAigIqHS7w=
+		gDqozFQ/ngbKWty44V0IsoYNhlk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -131,11 +131,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			40i5xKbKIR7sEsMU//TzIHmBPNo=
+			ATYbZwY+LeeuZSGukOCbnHh5Wl8=
 			</data>
 			<key>hash2</key>
 			<data>
-			j0xirt6du9OXVpB18e5mjZfMMmYmkj5lZ4ovzukhLQg=
+			f1KMkfQu7sWOmHLl7oJTBynsdDt+rCsW4ChENcnrOG0=
 			</data>
 		</dict>
 		<key>Headers/ABBackgroundEvent.h</key>
