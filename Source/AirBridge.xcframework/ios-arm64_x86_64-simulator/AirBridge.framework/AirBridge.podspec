@@ -1,13 +1,13 @@
 Pod::Spec.new do |s|
     s.name                      = "AirBridge"
-    s.version                   = "1.34.1"
+    s.version                   = "1.34.9"
     s.homepage                  = "https://airbridge.io"
     s.license                   = "Commercial"
     s.author                    = { "ab180" => "subeom@ab180.co" }
     s.platform                  = :ios, 11.0
 
     s.source                    = { 
-        :http => "https://sdk-download.airbridge.io/frameworks/AirBridge.xcframework-1.34.1.zip"
+        :http => "https://sdk-download.airbridge.io/frameworks/AirBridge.xcframework-1.34.9.zip"
     }
     s.preserve_paths            = "AirBridge_Files/AirBridge.xcframework"
 
