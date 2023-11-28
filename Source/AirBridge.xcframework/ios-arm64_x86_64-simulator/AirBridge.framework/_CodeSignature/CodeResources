@@ -6,7 +6,7 @@
 	<dict>
 		<key>AirBridge.podspec</key>
 		<data>
-		gurOOpr0ObH8RBS9xeIkTxZRnEU=
+		jYD4RbXMyGCvGAGf9VBwOco3/UY=
 		</data>
 		<key>Headers/ABBackgroundEvent.h</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Headers/ABDeeplinkInstallEvent.h</key>
 		<data>
-		pi3c6KnKJkmMmLgtVUrQnPEcDDE=
+		j922A/z/gmZnO4il3ZdbndU4p8c=
 		</data>
 		<key>Headers/ABEcommerceEvent.h</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Headers/ABInstallEvent.h</key>
 		<data>
-		0BnkGxMD1RmpAX1YOhbNIgPjRnQ=
+		Wm2zrihyNzo5GWpcf21qfONy8tI=
 		</data>
 		<key>Headers/ABLogLevel.h</key>
 		<data>
@@ -118,7 +118,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Q0oafc8STsPB+nmNpDCvIODTXjQ=
+		hRMPBoNOU78yEZhLbr+SwKH/4Lo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -131,11 +131,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gurOOpr0ObH8RBS9xeIkTxZRnEU=
+			jYD4RbXMyGCvGAGf9VBwOco3/UY=
 			</data>
 			<key>hash2</key>
 			<data>
-			ybPr2BR7Y9VJ2dbB0jlXHzc5mQnM+J+nI3vSbfIuCuQ=
+			WoLKAK90W8LFUmpJJVU8M1sepHMxird8QEBI+i+qmzU=
 			</data>
 		</dict>
 		<key>Headers/ABBackgroundEvent.h</key>
@@ -197,11 +197,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pi3c6KnKJkmMmLgtVUrQnPEcDDE=
+			j922A/z/gmZnO4il3ZdbndU4p8c=
 			</data>
 			<key>hash2</key>
 			<data>
-			8ENYIDyfjOmEMTJkWmo4mddcTFLP70b/oiLJfdFe/jg=
+			ZhKknpL7jGtxVXJHJUPXvgDqJAL6NHO4v0N4tUt7e0o=
 			</data>
 		</dict>
 		<key>Headers/ABEcommerceEvent.h</key>
@@ -274,11 +274,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0BnkGxMD1RmpAX1YOhbNIgPjRnQ=
+			Wm2zrihyNzo5GWpcf21qfONy8tI=
 			</data>
 			<key>hash2</key>
 			<data>
-			D7aZhQn+CZihc1BR8u8jDMZptN4XCxTCzLCGsqSOLuc=
+			PvtWKNdeyPrqsae/uj66B5sRTk7rUIQfFi16eE1/OKk=
 			</data>
 		</dict>
 		<key>Headers/ABLogLevel.h</key>
