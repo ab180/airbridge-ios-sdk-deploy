@@ -20,7 +20,6 @@ let package = Package(
             path: "Source/AirBridgeWrapper",
             linkerSettings: [
                 .linkedFramework("AdSupport"),
-                .linkedFramework("iAd"),
                 .linkedFramework("AdServices"),
                 .linkedFramework("CoreTelephony"),
                 .linkedFramework("StoreKit"),
