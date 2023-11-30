@@ -131,6 +131,14 @@
  *  @discussion It's format is UUID4
  */
 + (NSString*)deviceUUID;
+
+/**
+ *  AirbridgeGeneratedUUID returns a random, unique identifier for each installed application.
+ *
+ *  @discussion It's format is UUID4
+ */
++ (BOOL)fetchAirbridgeGeneratedUUID:(void(^ __nonnull)(NSString * __nonnull))onSuccess;
+
 /**
  *  isLimitADTracking return state of device's Limit-AD-Tracking
  */
