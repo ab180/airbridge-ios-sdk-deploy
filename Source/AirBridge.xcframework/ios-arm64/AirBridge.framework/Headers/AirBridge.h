@@ -64,6 +64,7 @@
 
 /* airbridge options */
 + (void)setLogLevel:(ABLogLevel) level;
++ (void)setPaginateLogEnabled:(bool)enabled;
 
 /* option */
 /**
