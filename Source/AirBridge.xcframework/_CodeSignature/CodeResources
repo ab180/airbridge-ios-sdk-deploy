@@ -6,7 +6,7 @@
 	<dict>
 		<key>ios-arm64/AirBridge.framework/AirBridge</key>
 		<data>
-		RVOYBVddi9Pp75hhVbiSDGCTqSE=
+		0qOxqh45mUcTrZ1qCNJxMlEdlL8=
 		</data>
 		<key>ios-arm64/AirBridge.framework/Headers/ABBackgroundEvent.h</key>
 		<data>
@@ -118,7 +118,7 @@
 		</data>
 		<key>ios-arm64/AirBridge.framework/Info.plist</key>
 		<data>
-		psqFoIbS2H66X87FKi93kObb3uM=
+		7/hCTp4/lBwWGtRZ2kHAgQFuWj8=
 		</data>
 		<key>ios-arm64/AirBridge.framework/Modules/module.modulemap</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/AirBridge.framework/AirBridge</key>
 		<data>
-		7WZv9wPebO7eI0IunWuhdutYpc0=
+		Us5PfILg9RdSt0aonht2TMmtkLk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/AirBridge.framework/Headers/ABBackgroundEvent.h</key>
 		<data>
@@ -242,7 +242,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/AirBridge.framework/Info.plist</key>
 		<data>
-		btkqfQyXGnh8Ttc6nws2OxQcn3c=
+		6iWTsrYrljfW+zlsgsl/BkK5ZTk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/AirBridge.framework/Modules/module.modulemap</key>
 		<data>
@@ -254,7 +254,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/AirBridge.framework/_CodeSignature/CodeResources</key>
 		<data>
-		soV/sRTTeUyFc5gElGWrFyQOU1s=
+		kPdt8mBJ/x/wpcpz0vN5WyPZDhM=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -263,11 +263,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RVOYBVddi9Pp75hhVbiSDGCTqSE=
+			0qOxqh45mUcTrZ1qCNJxMlEdlL8=
 			</data>
 			<key>hash2</key>
 			<data>
-			EU21e7sHLBUnECRWm8IfQIEmX2kgAsnjHxTqqfdhMLE=
+			kmY4GM+Y69YfO13RcRuGZ/E3a1VkCUzlhz+59F7EJbo=
 			</data>
 		</dict>
 		<key>ios-arm64/AirBridge.framework/Headers/ABBackgroundEvent.h</key>
@@ -571,11 +571,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			psqFoIbS2H66X87FKi93kObb3uM=
+			7/hCTp4/lBwWGtRZ2kHAgQFuWj8=
 			</data>
 			<key>hash2</key>
 			<data>
-			Xl98w4ewx4G+Q99cxLbbupNydKtv3neuVNScmqrf1E8=
+			+obN8IPhfwHvmGlHxKPgeeGXsstSOZ0CwSxEG6Ef02I=
 			</data>
 		</dict>
 		<key>ios-arm64/AirBridge.framework/Modules/module.modulemap</key>
@@ -604,11 +604,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7WZv9wPebO7eI0IunWuhdutYpc0=
+			Us5PfILg9RdSt0aonht2TMmtkLk=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ajm8UvoaflayEPPwXVtCF07X4KaFfhB/Siib8+GRgys=
+			rjIaZ7wwBEwAHiyOFYbKLc7ZxWKScVTsMGWp8NKOPMI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/AirBridge.framework/Headers/ABBackgroundEvent.h</key>
@@ -912,11 +912,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			btkqfQyXGnh8Ttc6nws2OxQcn3c=
+			6iWTsrYrljfW+zlsgsl/BkK5ZTk=
 			</data>
 			<key>hash2</key>
 			<data>
-			j90o+TesW0XltqVOuS3gTUJoE3YPXPHhE0ca9T8y+cw=
+			+dm1gDC13cvvMPIK7k6dRafWW/RJwM/ahZH/OF2wE0c=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/AirBridge.framework/Modules/module.modulemap</key>
@@ -945,11 +945,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			soV/sRTTeUyFc5gElGWrFyQOU1s=
+			kPdt8mBJ/x/wpcpz0vN5WyPZDhM=
 			</data>
 			<key>hash2</key>
 			<data>
-			vtbOt19MWfxJpdq+qDzwZxVU4oN/lr2gFS4b6+UGbqQ=
+			Di/AwJ5lxklfALlwocACe2wGb+Jvj4x2do8RQ+hL3wo=
 			</data>
 		</dict>
 	</dict>
