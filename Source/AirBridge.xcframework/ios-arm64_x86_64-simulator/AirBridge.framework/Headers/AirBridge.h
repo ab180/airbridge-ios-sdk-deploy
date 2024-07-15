@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <StoreKit/StoreKit.h>
 #import <AirBridge/ABState.h>
 #import <AirBridge/ABPlacement.h>
 #import <AirBridge/ABDeeplink.h>
@@ -86,7 +87,10 @@
 + (BOOL) resetEventBufferEnabled;
 + (void) setResetEventBufferEnabled:(BOOL)enable;
 
-+ (void) startTracking;
++ (BOOL)isTrackingEnabled;
+
++ (void)startTracking;
++ (void)stopTracking;
 
 /// The methods of 'enableSDK' and 'disableSDK' serve to bring to a halt and resume all functionalities, respectively. It is advised to make use of the
 /// 'autoStartTrackingEnabled' option before creating the instance of Airbridge for a more refined experience.
@@ -109,6 +113,7 @@
  */
 + (BOOL)isTrackAirbridgeDeeplinkOnly;
 + (void)setIsTrackAirbridgeDeeplinkOnly:(BOOL)enable;
+
 /**
  *  isFacebookDeferredAppLinkEnabled fetch deferred app link from Facebook SDK
  *
@@ -116,6 +121,13 @@
  */
 + (BOOL) isFacebookDeferredAppLinkEnabled;
 + (void) setIsFacebookDeferredAppLinkEnabled:(BOOL)enable;
+
+/**
+ * @discussion This is an experimental API and may change in the future.
+ * API that allows the SDK to detect and forward purchase and subscription events to the airbridge server when they occur in your app.
+ */
++ (void)startInAppPurchaseTracking;
++ (void)startInAppPurchaseTracking:(SKPaymentQueue * __nonnull)paymentQueue;
 
 /**
  *  setSessionTimeout set time-duration of session.
