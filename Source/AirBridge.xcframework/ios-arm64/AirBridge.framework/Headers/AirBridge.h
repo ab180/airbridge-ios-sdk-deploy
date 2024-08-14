@@ -129,6 +129,8 @@
 + (void)startInAppPurchaseTracking;
 + (void)startInAppPurchaseTracking:(SKPaymentQueue * __nonnull)paymentQueue;
 
++ (void)stopInAppPurchaseTracking;
+
 /**
  *  setSessionTimeout set time-duration of session.
  *

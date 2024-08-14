@@ -52,6 +52,14 @@
 		<data>
 		C/t+hBd/Qif0/G4jXyVcf86dQMg=
 		</data>
+		<key>Headers/ABInAppPurchase.h</key>
+		<data>
+		/QglaKHhu4/toCgQQA0NNJa9mmw=
+		</data>
+		<key>Headers/ABInAppPurchaseEnvironment.h</key>
+		<data>
+		YhaNxvV8c6K6jIGYmkKAuS4QN9w=
+		</data>
 		<key>Headers/ABInstallEvent.h</key>
 		<data>
 		Wm2zrihyNzo5GWpcf21qfONy8tI=
@@ -86,7 +94,7 @@
 		</data>
 		<key>Headers/ABSetting.h</key>
 		<data>
-		jwb0D+dpjuI6NRnbk4i3L7bcHUo=
+		zlvp8L96WYywlC4usnuUCn8F6CI=
 		</data>
 		<key>Headers/ABState.h</key>
 		<data>
@@ -110,11 +118,11 @@
 		</data>
 		<key>Headers/AirBridge.h</key>
 		<data>
-		kRaDc28kHac04yJLZNIZsT5f6n4=
+		VjFmtYg8q7m+7aBb0QOMYU3kM+s=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		H/4njF8gGnlg6FL7m78a3Iw0fys=
+		tvifflDi5ijhbmmzegsN41JQHLw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -122,7 +130,7 @@
 		</data>
 		<key>PrivacyInfo.xcprivacy</key>
 		<data>
-		UdMuihWUjDyfJr+0Ye2TRX6obD4=
+		SimPbQLnefnFpyAQvRhtf72ZUB0=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -211,6 +219,20 @@
 			Jecu9tl5yZr32tQoPK1xKWsc2dYrB+ILLKKkB9tCE3M=
 			</data>
 		</dict>
+		<key>Headers/ABInAppPurchase.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nEUSDtcN9+LKX0LsmEyEsBV3Ej9bmHMt/a14gx14Ed8=
+			</data>
+		</dict>
+		<key>Headers/ABInAppPurchaseEnvironment.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jLY4bL1Az/dzUqIBCxdVaZz2ZiOPffM0fBifjiA7cR0=
+			</data>
+		</dict>
 		<key>Headers/ABInstallEvent.h</key>
 		<dict>
 			<key>hash2</key>
@@ -271,7 +293,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rR8iiEYGyrhi9DPChwYsqlWZt0z/pWPopQZtG0qvB9k=
+			YHU0Qai9R7+HpqW4cljpQCstORY2moiTkFbrwVgWpEI=
 			</data>
 		</dict>
 		<key>Headers/ABState.h</key>
@@ -313,7 +335,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BAuAe/ItARj5laUkAE+iBAba7BMMHB5TppLymNDtr5o=
+			nG5dFMNJEDxIfEFXLFS3zGt0MQsp/i2FR7ut1MGaT0Y=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -327,7 +349,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0mVWiA/yFW54r50dYHWH6cBC47/XpIPb7WHyJ8fe5gM=
+			/gZ6qcJDxHEwPsCKcsUX5Gv6kl1OeQH6dlLjrE6oRRs=
 			</data>
 		</dict>
 	</dict>
