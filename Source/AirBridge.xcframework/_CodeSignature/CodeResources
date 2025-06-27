@@ -6,7 +6,7 @@
 	<dict>
 		<key>ios-arm64/AirBridge.framework/AirBridge</key>
 		<data>
-		SHuS/U1/xs8NSRRILf5P0Qdizb0=
+		+5FqeIh+fTO8lfsSAkI4Jk5Um+k=
 		</data>
 		<key>ios-arm64/AirBridge.framework/Headers/ABBackgroundEvent.h</key>
 		<data>
@@ -126,7 +126,7 @@
 		</data>
 		<key>ios-arm64/AirBridge.framework/Info.plist</key>
 		<data>
-		3F8JMGry4ZT3jgGFTd0xOrrveIw=
+		yOYwvRxT74RJaZ3Kk67HJVfXqBg=
 		</data>
 		<key>ios-arm64/AirBridge.framework/Modules/module.modulemap</key>
 		<data>
@@ -136,9 +136,21 @@
 		<data>
 		SimPbQLnefnFpyAQvRhtf72ZUB0=
 		</data>
+		<key>ios-arm64/dSYMs/AirBridge.framework.dSYM/Contents/Info.plist</key>
+		<data>
+		C/NKJ0BZPUmlWzTsQzCiZIgO/EQ=
+		</data>
+		<key>ios-arm64/dSYMs/AirBridge.framework.dSYM/Contents/Resources/DWARF/AirBridge</key>
+		<data>
+		QR4wCz7A/F51CT6Xtbzv2gyqyCM=
+		</data>
+		<key>ios-arm64/dSYMs/AirBridge.framework.dSYM/Contents/Resources/Relocations/aarch64/AirBridge.yml</key>
+		<data>
+		V0LuQWYi0/fWu0LbkmvUFhXK85w=
+		</data>
 		<key>ios-arm64_x86_64-simulator/AirBridge.framework/AirBridge</key>
 		<data>
-		c53vWoCN4DqEjR5C1L+cbG5QmhQ=
+		gkuDhADwVapVu3X6efWE8h6vOOc=
 		</data>
 		<key>ios-arm64_x86_64-simulator/AirBridge.framework/Headers/ABBackgroundEvent.h</key>
 		<data>
@@ -258,7 +270,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/AirBridge.framework/Info.plist</key>
 		<data>
-		yfODasFAf/1385pFFDE49hkHre4=
+		tsG//nsl8IC22L//j8lKnMXGWkI=
 		</data>
 		<key>ios-arm64_x86_64-simulator/AirBridge.framework/Modules/module.modulemap</key>
 		<data>
@@ -270,7 +282,23 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/AirBridge.framework/_CodeSignature/CodeResources</key>
 		<data>
-		YszpDU6B6HijYc3anDD2y6G8Gfw=
+		Icc6K2PXfTDxahkeUYL30bt+E48=
+		</data>
+		<key>ios-arm64_x86_64-simulator/dSYMs/AirBridge.framework.dSYM/Contents/Info.plist</key>
+		<data>
+		C/NKJ0BZPUmlWzTsQzCiZIgO/EQ=
+		</data>
+		<key>ios-arm64_x86_64-simulator/dSYMs/AirBridge.framework.dSYM/Contents/Resources/DWARF/AirBridge</key>
+		<data>
+		T6rNJBuEwwdv2WOra/GIq9kOoY0=
+		</data>
+		<key>ios-arm64_x86_64-simulator/dSYMs/AirBridge.framework.dSYM/Contents/Resources/Relocations/aarch64/AirBridge.yml</key>
+		<data>
+		6pCtbYILezXvdHP0B5RkEUN3nu8=
+		</data>
+		<key>ios-arm64_x86_64-simulator/dSYMs/AirBridge.framework.dSYM/Contents/Resources/Relocations/x86_64/AirBridge.yml</key>
+		<data>
+		TkpybUdaWERK23V33gpA1C9Kv6A=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -279,11 +307,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SHuS/U1/xs8NSRRILf5P0Qdizb0=
+			+5FqeIh+fTO8lfsSAkI4Jk5Um+k=
 			</data>
 			<key>hash2</key>
 			<data>
-			sMnxlMcQIRwvAnyoyxRyvgFP2r9gBL6W7f0f3fLDnbU=
+			cZLZlRzqP9nRm4kUMYHKg/2upMt3CcoEtrj8nhkeFdw=
 			</data>
 		</dict>
 		<key>ios-arm64/AirBridge.framework/Headers/ABBackgroundEvent.h</key>
@@ -609,11 +637,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3F8JMGry4ZT3jgGFTd0xOrrveIw=
+			yOYwvRxT74RJaZ3Kk67HJVfXqBg=
 			</data>
 			<key>hash2</key>
 			<data>
-			r/wQCfg/6cXxDhJgHczdo+yxsuQNXujyPXweOLenw8c=
+			f1brkl48j/cNQc09CpFk2MYwNOWN1xz1QXxGp+M2CJM=
 			</data>
 		</dict>
 		<key>ios-arm64/AirBridge.framework/Modules/module.modulemap</key>
@@ -638,15 +666,48 @@
 			/gZ6qcJDxHEwPsCKcsUX5Gv6kl1OeQH6dlLjrE6oRRs=
 			</data>
 		</dict>
+		<key>ios-arm64/dSYMs/AirBridge.framework.dSYM/Contents/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			C/NKJ0BZPUmlWzTsQzCiZIgO/EQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			vA1j6JKqtvE2mHtyzfxNYPRfqlMTXgTtcXgUwpPjMQw=
+			</data>
+		</dict>
+		<key>ios-arm64/dSYMs/AirBridge.framework.dSYM/Contents/Resources/DWARF/AirBridge</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QR4wCz7A/F51CT6Xtbzv2gyqyCM=
+			</data>
+			<key>hash2</key>
+			<data>
+			INbu3ZDC3mfzyywopUpwLTPqIcmLDMZzJN/v1Yy7x1k=
+			</data>
+		</dict>
+		<key>ios-arm64/dSYMs/AirBridge.framework.dSYM/Contents/Resources/Relocations/aarch64/AirBridge.yml</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			V0LuQWYi0/fWu0LbkmvUFhXK85w=
+			</data>
+			<key>hash2</key>
+			<data>
+			2L0DIQb5PDtMan/42tQM54mBejk3T+YfuqHnstH9/OI=
+			</data>
+		</dict>
 		<key>ios-arm64_x86_64-simulator/AirBridge.framework/AirBridge</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			c53vWoCN4DqEjR5C1L+cbG5QmhQ=
+			gkuDhADwVapVu3X6efWE8h6vOOc=
 			</data>
 			<key>hash2</key>
 			<data>
-			2e+Ru4PYdp0BaI0T5qkgpQZfZvFr/evymXuzToitEPA=
+			mKcf1tNLU8fs6nXw3/OxZonwFjLpUkTDUqySr09Dy0c=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/AirBridge.framework/Headers/ABBackgroundEvent.h</key>
@@ -972,11 +1033,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yfODasFAf/1385pFFDE49hkHre4=
+			tsG//nsl8IC22L//j8lKnMXGWkI=
 			</data>
 			<key>hash2</key>
 			<data>
-			mlMjVfHZr9kn4Fpp11TJA0C4P8ZD1guy7enhX0N43EA=
+			lFfw2V+awVSAQeupW1LBUx8NgvGbr8GXuWjLS6whGwY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/AirBridge.framework/Modules/module.modulemap</key>
@@ -1005,11 +1066,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YszpDU6B6HijYc3anDD2y6G8Gfw=
+			Icc6K2PXfTDxahkeUYL30bt+E48=
 			</data>
 			<key>hash2</key>
 			<data>
-			MdbT61PXy4YHwQHz7XWQJxOAU1IKgo6gNIVuPeVoqZk=
+			haeaeVwc3/kyTKN5gEWh0+3M7zVa8Bq3VUfqBeV9sCs=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/dSYMs/AirBridge.framework.dSYM/Contents/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			C/NKJ0BZPUmlWzTsQzCiZIgO/EQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			vA1j6JKqtvE2mHtyzfxNYPRfqlMTXgTtcXgUwpPjMQw=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/dSYMs/AirBridge.framework.dSYM/Contents/Resources/DWARF/AirBridge</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			T6rNJBuEwwdv2WOra/GIq9kOoY0=
+			</data>
+			<key>hash2</key>
+			<data>
+			V5+P/MTb5yS81AYDI/npYzWpvFvZeJtGVw7Cqzzms6s=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/dSYMs/AirBridge.framework.dSYM/Contents/Resources/Relocations/aarch64/AirBridge.yml</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6pCtbYILezXvdHP0B5RkEUN3nu8=
+			</data>
+			<key>hash2</key>
+			<data>
+			CQsECn4S3T131njDq1e2oQHg+7bvGcp5jL62n8SgdSE=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/dSYMs/AirBridge.framework.dSYM/Contents/Resources/Relocations/x86_64/AirBridge.yml</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TkpybUdaWERK23V33gpA1C9Kv6A=
+			</data>
+			<key>hash2</key>
+			<data>
+			1+vuDVDWwfGAqfOZ8V/qjMJ+fFl5LWaXU3lBGOWJxrk=
 			</data>
 		</dict>
 	</dict>
